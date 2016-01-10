@@ -1,0 +1,129 @@
+.js .content{
+	top:0;
+	bottom:0;
+
+}
+.js .content:before{
+  content: '';
+  position: absolute;
+  width:100%;
+  height:100%;
+  z-index: 0;
+}
+$slideWidth : 300px;
+.js .menu-panel {
+    position: absolute;
+    left: -$slideWidth;
+    overflow: auto;
+}
+.menu-panel{
+  width:$slideWidth;
+}
+.slideRight {
+    left: $slideWidth;
+}
+.menu-toc li a{
+  line-height: 3;
+}
+
+.scroller {
+  color:#fff;
+  padding-top: 70px;
+  padding-bottom: 50px;
+  min-height: 100vh;
+  font-weight: 300;
+  h1,h2,h3,h4{
+    text-align: center;
+    color:#fff;
+    text-shadow: none;
+  }
+  h2{
+
+  }
+  h3{
+    font-size: 3em;
+    font-weight: 300;
+  }
+  h4{
+    font-size: 2em;
+  }
+  .author{
+    text-align: right;;
+    text-emphasis: 1px;
+  }
+  .img{
+    text-align: center;
+    img{
+      max-width: 90%;
+    }
+  }
+
+  ul{
+
+    padding-left: 5%;
+    li{
+      font-size: 1.5em;
+    }
+  }
+  .title{
+    padding: 0px 15px;
+    font-size: 2em;
+  }
+
+  .light{
+    color:#000;
+    h1,h2,h3,h4{
+      color:#000;
+    }
+  }
+}
+
+.jspVerticalBar .jspCap {
+    height: 0px;
+}
+
+.content{
+
+}
+
+.frontpage{
+  display: inline-block;
+	padding: 25px 50px;
+	margin-top: 50px;
+	background: rgba(255,255,255,.6);
+	border-radius: 3px;
+  h1,h2,h3,h4{
+		color:#000;
+		font-weight: 300;
+	}
+	p{
+		font-size: 1.5em;
+		color: #000;
+	}
+
+
+}
+
+@media screen and (max-width: 600px) {
+		.frontpage{
+			padding: 10px;
+		}
+}
+
+.page1{
+  background:url(../images/tm.jpg);
+  background-size: cover;
+}
+.page1:before{
+  background: rgba(0,0,0,.5);
+}
+.page2{
+  background-size: cover;
+}
+.page4{
+  background:url(../images/chip.jpg);
+  background-size: cover;
+}
+.page4:before{
+  background: rgba(0,0,0,.5);
+}

@@ -1,0 +1,58 @@
+<div class="bb-item" id="item2">
+  <div class="content page2">
+    <div class="scroller">
+      <div class="light">
+          <h3>Solving Problems By Making Them Harder!?</h3>
+          <p class="author">- <em>Aashish Satyajith</em></p>
+          <div class="container-fluid">
+            <div class="row">
+              <div class="col-md-6">
+                <p>Time and again we’ve been told by our betters that if we can’t solve a problem, try to solve a simpler version of the same problem.
+                  And the advice has worked out pretty well too. But would it be actually possible to solve a problem by making it harder than it originally is?
+                  Let’s find out!!
+                </p>
+                <p>
+                  Imagine (imagine!) that the Department of Computer Science has been allotted some new land as a part of expansion of the campus.
+                  Some of the land was decided to be used to honour an iconic figure in the field of computer science: Alan Turing.
+                  To do this, a big square courtyard would be constructed, divided into unit squares, at the centre of which a statue of Alan Turing would be placed in a single unit square.
+                   Recognizing the importance of the binary system, we insist that the dimensions of the square be a power of two.
+                </p>
+                <p>
+                  We hire a genius architect, Ted Mosby, to get the job done. As we all know, Ted, like most geniuses, is a little bit eccentric, and he insists that the tiles used for the courtyard be of a particular L-shape as such:
+                </p>
+                <div class="img"><img src="./images/articles/tile.jpg"></div>
+                <p>The next figure then represents a valid tiling:</p>
+                <div class="img"><img src="./images/articles/validtile.jpg"></div>
+                <p>But now, we have problem. How on earth are we supposed to know that there’s going to be a valid tiling for any n that we choose? How do we know, that after the tiling, there would be a square left in the centre to place Turing’s statue? Is there a way out?</p>
+                <p>Challenge accepted. We need to prove that there’s a valid tiling leaving a square in the centre empty for any n that we choose. Well the only two proof techniques that we’re largely familiar with are proof by induction and proof by contradiction, and the latter doesn’t seem to be the guy for the job. Onward with induction then:</p>
+                <p><strong>Attempt #1:</strong></p>
+                <p>Let P(n) be the proposition that there exists a tiling of a 2<sup>n</sup> x 2<sup>n</sup> courtyard with a square remaining empty in the centre.</p>
+                <p><strong>Base case:</strong>P(0) is obviously true, since at n = 0, all we have is a 1 x 1 square and we can put Turing’s statue there.</p>
+                <p><strong>Inductive step:</strong>  Assume that  P(n) is true. We must prove that there is a way to tile a 2<sup>n+1</sup> x 2<sup>n+1</sup> courtyard with a square empty in the centre, i.e. that P(n + 1) is true.</p>
+                <p>We divide the 2<sup>n+1</sup> x 2<sup>n+1</sup> courtyard into four, and we get four squares of dimension 2<sup>n</sup> each. Each 2<sup>n</sup> x 2<sup>n</sup> square has a square at its centre empty, by the induction hypothesis.</p>
+                <p>Uh oh...trouble!! We can’t bring together the four empty squares in the centre of the four “quadrants” to form a tiling with one empty square as we need!! In other words, we can’t prove this hypothesis easily!! Let’s chuck it and start with a new one then:</p>
+
+
+              </div>
+              <div class="col-md-6">
+                <p><strong>Attack #2:</strong></p>
+                <p><strong>Proof:</strong> Let P(n) be the proposition that there exists a tiling of a 2<sup>n</sup> x 2<sup>n</sup> courtyard with a square remaining empty anywhere we want.</p>
+                <p>At this point, you’re probably saying: “Wait – what!? Life is already difficult enough as it is trying to prove the hypothesis for a SINGLE square and now you want to try to prove the hypothesis for ALL the squares? Are you out of your mind!?”</p>
+                <p>Relax. This is a standard technique in induction: if you can’t prove an inductive hypothesis, try to prove a grander one. How does it help us? Let me show you:</p>
+                <p><strong>Base case:</strong> P(0) is true as earlier – because there’s only one square that we have to deal with, we can just put the statue there.</p>
+                <p><strong>Inductive step:</strong> Assume that P(n) is true.</p>
+                <p>Now to prove that P(n + 1) is true:</p>
+                <p>As earlier we split up the 2<sup>n + 1</sup> x 2<sup>n + 1</sup> square into four and obtain squares of dimension 2<sup>n</sup> x 2<sup>n</sup> each. Because we’re guaranteed to find a single square empty in each of the four quadrants wherever we want them by the induction hypothesis, let’s put the empty squares in the four corners of each 2<sup>n</sup> x 2<sup>n</sup> square as such:</p>
+                <div class="img"><img src="./images/articles/ftile.jpg"></div>
+                <p>Now the rest is pretty obvious: place an L-shaped tile covering the squares marked X!! And so P(n) implies P(n + 1), and by principle of mathematical induction, the statement is true for all n!! All of us (including Ted) can go home happy!!</p>
+                <p>So we managed to get to the solution by making our problem harder. How did this work? It worked because induction works by assuming whatever we’re trying to prove is true. By trying to prove a stronger hypothesis, we can assume something more powerful. Assuming that you can have an empty square anywhere in a square is far more powerful than assuming that you can have a square (specifically) at the centre. We simply exploited this as a tool to get to our solution.</p>
+                <p>Did you notice something else? The proof actually gives an algorithm to find a tiling!! Simply divide each 2<sup>n</sup> x 2<sup>n</sup> square recursively into four and find a tiling for each “sub-square” that was obtained!! Simple as that!!</p>
+                <p>And that’s how you solve problems by making them harder.</p>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+  </div>
+</div>
