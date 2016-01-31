@@ -9,8 +9,9 @@
               <ul>
                 <li>Charpak Research Internship Program is a great opportunity to work as an intern at a research laboratory in France! Applications accepted till March 13<sup>th</sup>.</li>
                 <li>Caltech's coveted SURF Program has its applications due on February 22<sup>nd</sup>.</li>
-                <li>IIT Madras Summer Fellowship Program has its deadline on 29<sup>th</sup> February.</li>
-                <li>Also, be sure to keep an eye on the Google Summer of Code timeline. The program is currently accepting applications for mentoring organizations, and will start accepting applications from students on March 14<sup>th</sup>.</li>
+                <li>IIT Madras Summer Fellowship Program has its deadline on 29<sup>th</sup> February.</li>4
+                <li>IIT Kanpur's SURGE Program has started call for applications. Deadline falls on February 22<sup>nd</sup></li>
+                <li>Also, be sure to keep an eye on the Google Summer of Code timeline. The program will start accepting applications from students March 14<sup>th</sup> onwards.</li>
               </ul>
             </div>
             <div class="col-md-6">
