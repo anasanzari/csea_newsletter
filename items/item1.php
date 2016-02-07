@@ -5,8 +5,9 @@
       <div class="frontpage">
         <h2>The Turing Machine</h2>
         <div style="float:right"><img src="./images/csea.png" style="width:100px" /></div>
-        <p>Volume 1, Issue 1</p>
-        <p>CSED Newsletter</p>
+        <p>Volume I, Issue I</p>
+        <p>Official Newsletter</p>
+        <p>Department of Computer Science and Engineering</p>
       </div>
 
     </div>

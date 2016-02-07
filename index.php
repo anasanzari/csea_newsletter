@@ -14,6 +14,7 @@
 				<h3>Table of Contents</h3>
 				<ul id="menu-toc" class="menu-toc">
 					<li class="menu-toc-current"><a href="#item1">Home</a></li>
+					<li><a href="#item12">Editorial</a></li>
 					<li><a href="#item2">Solving Problems</a></li>
 					<li><a href="#item3">Internships and Beyond</a></li>
 					<li><a href="#item4">CSEA Updates</a></li>
@@ -23,6 +24,7 @@
 					<li><a href="#item8">FOSSBytes</a></li>
 					<li><a href="#item9">The Little Grey cells Attack</a></li>
 					<li><a href="#item10">FUNtastic</a></li>
+					<li><a href="#item11">The Team</a></li>
 				</ul>
 			</div>
 
@@ -30,6 +32,8 @@
 				<div id="bb-bookblock" class="bb-bookblock">
 					<!-- Front Page -->
 					<?php include_once 'items/item1.php'; ?>
+					<!-- Editorial Page -->
+					<?php include_once 'items/editorial.php'; ?>
 					<!-- Solving Problems Article -->
 					<?php include_once 'items/item2.php'; ?>
 					<!-- Internships and Beyond Article -->
@@ -48,6 +52,8 @@
 					<?php include_once 'items/item9.php'; ?>
 					<!-- Comics -->
 					<?php include_once 'items/item10.php'; ?>
+					<!-- Team -->
+					<?php include_once 'items/item11.php'; ?>
 				</div>
 				<div>
 					<nav>
@@ -72,5 +78,6 @@
 
 			});
 		</script>
+
 	</body>
 </html>

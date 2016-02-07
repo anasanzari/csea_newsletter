@@ -3,7 +3,7 @@
     <div class="scroller">
       <div class="light">
           <h3>Solving Problems By Making Them Harder!?</h3>
-          <p class="author">- <em>Aashish Satyajith</em></p>
+          <p class="author">- <em>Aashish Satyajith, B.Tech IIIrd year</em></p>
           <div class="container-fluid">
             <div class="row">
               <div class="col-md-6">
