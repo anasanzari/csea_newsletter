@@ -50,10 +50,10 @@
                 <p>And that’s how you solve problems by making them harder :-)</p>
                 <p>P. S. Did you notice something else? The proof actually gives an algorithm to find a tiling!! Can you work out the details?</p>
                 <p></p>
+                <p><i>Adapted from Mathematics for Computer Science, Leighton et al. A print version of this book has not been published yet.</i></p>
               </div>
             </div>
           </div>
-
         </div>
       </div>
   </div>
