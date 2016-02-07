@@ -6,16 +6,14 @@
         <div class="container-fluid">
           <div class="row">
             <div class="col-md-6">
-              <ul>
-                <li>The ACM ICPC Regionals  will begin shortly. Interested coders, don't miss it!</li>
-                <li>The IEEE Extreme Programming Challenge is a 24hr long coding contest hosted by the IEEE, to be held this October.</li>
-
-              </ul>
+              <h3>CodeChef presents February Challenge 2016</h3>
+              <div class="img"><img src="./images/code/feb2016.jpg"></div><br>
+              <h4>Feb 5 2016 - Feb 15 2016</h4>
             </div>
             <div class="col-md-6">
-              <ul>
-              <li>Rounds C and D of the Google Code Jam are also scheduled in the near future.</li>
-              </ul>
+              <h3>HackerEarth presents 'indiahacks'</h3>
+              <div class="img"><img src="./images/code/concept.png"></div>
+              <h4>This Feb 8 2016</h4>
             </div>
           </div>
         </div>
