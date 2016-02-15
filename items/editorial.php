@@ -2,7 +2,7 @@
   <div class="content">
     <div class="scroller">
       <div class="light">
-        <h2>The Team</h2>
+        <h2>The ENIGMATIC Life</h2>
         <div class="container-fluid">
           <div class="row">
             <div class="col-md-6">
@@ -16,7 +16,7 @@
               <p>This issue came into light only due to the creativity and toil of several students who put in their best effort. My heartfelt gratitude to Dr. Vinod Pathari sir, Faculty Editor without whom this would have not been possible. My sincere thanks to the Head of the Department, Dr. K.A Abdul Nazeer and to the CSEA faculty incharges, Dr. S.D Madhukumar and Ms. A. Lijiya for their support.  </p>
               <p>Happy Reading!</p>
               <p>Aishwarya, </p>
-              <p>Chief Student Editor, The Turing Machine</p>
+              <p>Student Editor, The Turing Machine</p>
             </div>
           </div>
         </div>
