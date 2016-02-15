@@ -890,6 +890,15 @@ CSEA@nitcalicut
 @media print {
   .hidden-print {
     display: none !important; } }
+/*scaffolding issues */
+.img-responsive {
+  display: block;
+  max-width: 100%;
+  height: auto; }
+
+.img-rounded {
+  border-radius: 6px; }
+
 /* other css stylesheets in the order */
 /* page sass */
 .js .content {
@@ -1016,5 +1025,13 @@ CSEA@nitcalicut
 
 .page4:before {
   background: rgba(0, 0, 0, 0.5); }
+
+.pagenum {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  z-index: 100; }
+  .pagenum.white {
+    color: #fff; }
 
 /*# sourceMappingURL=styles.css.map */

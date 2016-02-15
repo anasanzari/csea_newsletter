@@ -1,4 +1,5 @@
 <div class="bb-item" id="item5">
+  <div class="pagenum">6/12</div>
   <div class="content">
     <div class="scroller">
       <div class="light">

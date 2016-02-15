@@ -167,3 +167,13 @@ $slideWidth : 300px;
 .page4:before{
   background: rgba(0,0,0,.5);
 }
+
+.pagenum{
+	position: absolute;
+	top:20px;
+	right: 30px;
+	z-index: 100;
+	&.white{
+		color: #fff;
+	}
+}
