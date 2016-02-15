@@ -7,8 +7,8 @@
           <div class="row">
             <div class="col-md-6">
               <p>“Sometimes it is the people who no one imagines anything of who do the things that no one can imagine.” </p>
-              <p class="author">- <em>Alan Turing</em></p>
-              <p>Every mathematician or a computer scientist would have dreamt of reaching great heights as high as those scaled by Mr. Alan Turing. This man, a brilliant mathematician, logistician and cryptanalyst, needs no further introduction. His contribution to the field of theoretical computer science shaped this field as we see it today. The first issue of the official newsletter of the Department of Computer Science and Engineering, NIT Calicut pays homage to him. The machine, named after its inventor, is a simple yet a highly powerful mathematical model used to simulate the logic of any algorithm. </p>
+              
+              <p>Every mathematician or a computer scientist would have dreamt of reaching great heights as high as those scaled by Mr. Alan Turing. This man, a brilliant mathematician, logistician and cryptanalyst, needs no further introduction. His contribution to the field of theoretical computer science shaped this field as we see it today. The first issue of the official newsletter of the Department of Computer Science and Engineering, NIT Calicut pays homage to him. The machine, named after its inventor, is a simple mathematical model that is used to simulate the logic of any algorithm.</p>
               <p>On a personal note, ever since I learnt of the existence of this machine, I was in awe, of both the machine and its inventor. The Wiki page of the machine speaks of " indeed capturing the informal notion of effective methods in logic and mathematics". And then, it struck me. For me, the machine represents the black box called 'Life'. Every problem does have a solution. And even if it doesn't, that shouldn't deter us from taking the next step towards success.  </p>
             </div>
             <div class="col-md-6">
