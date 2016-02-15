@@ -19,6 +19,8 @@
                 <li>Aashish Satyajith</li>
                 <li>Piyush Bhopalka</li>
                 <li>Aparna Jayaraj</li>
+                <li>K Satya Kumar</li>
+                <li>Anas Ansari</li>
               </ul>
 
             </div>
@@ -33,7 +35,8 @@
                     <img src="./images/social/web.png" />
                   </a>
                 </div>
-                <p class="center">We are now accepting articles for our next issues. Please drop us a  mail at csed.newsletter@gmail.com</p>
+                <p class="center">Suggestions for improvement are welcome.</p>
+                <p class="center">We are now accepting articles for our next issues. Please drop us a mail at csed.newsletter@gmail.com</p>
               </div>
             </div>
 
