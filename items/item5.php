@@ -9,10 +9,11 @@
             <div class="col-md-6">
               <ul>
                 <li>Charpak Research Internship Program is a great opportunity to work as an intern at a research laboratory in France! Applications accepted till March 13<sup>th</sup>.</li>
-                <li>Caltech's coveted SURF Program has its applications due on February 22<sup>nd</sup>.</li>
                 <li>IIT Madras Summer Fellowship Program has its deadline on 29<sup>th</sup> February.</li>
-                <li>IIT Kanpur's SURGE Program has started call for applications. Deadline falls on February 22<sup>nd</sup>.</li>
+                <li>IIT Delhi is hosting its Summer Research Fellowship Programme 2015 and will accept applications till 10<sup>th</sup> March.</li>
+                <li>IIT Gandhinagar will be accepting applications for its Student Summer Research Internships Programme 2016 till 5<sup>th</sup> March.</li>
                 <li>IIT Guwahati is also hosting a Summer Internship Program. This one has its deadline late in March.</li>
+                <li>IIT Bhubaneswar's Internship Programme for Summer also has its deadline late in March.</li>
                 <li>Also, don't miss out on some amazing learning opportunities at a few startups.</li>
               </ul>
             </div>
