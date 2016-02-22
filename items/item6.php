@@ -6,14 +6,18 @@
         <div class="container-fluid">
           <div class="row">
             <div class="col-md-6">
-              <h3>CodeChef presents February Challenge 2016</h3>
-              <div class="img"><img src="./images/code/feb2016.jpg"></div><br>
-              <h4>Feb 5 2016 - Feb 15 2016</h4>
+              <h3>Accel Hack on HackerRank</h3>
+              <div class="img"><a href = "https://www.hackerrank.com/accel-hack"><img src="./images/code/accelHackMarch.jpg"></a></div><br>
+              <h4>March 5 2016</h4>
+              <br><hr>
+              <h3>Juniper Networks Presents Juniper Coding Challenge</h3>
+              <div class="img"><a href = "https://www.hackerrank.com/juniper-codesprint"><img src="./images/code/juniperHackathon.jpg"></a></div><br>
+              <h4>February 27 2016</h4>
             </div>
             <div class="col-md-6">
-              <h3>HackerEarth presents 'indiahacks'</h3>
-              <div class="img"><img src="./images/code/concept.png"></div>
-              <h4>This Feb 8 2016</h4>
+              <h3>IIT BHU presents PERPLEXED</h3>
+              <div class="img"><a href = "https://www.hackerrank.com/contests/perplexed-codefest16/challenges"><img src="./images/code/iitbhumarch.jpg"></a></div><br>
+              <h4>Feb 26-28 2016</h4>
             </div>
           </div>
         </div>
