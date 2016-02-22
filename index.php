@@ -21,7 +21,7 @@
 					<li><a href="#item5">Opportunities Galore</a></li>
 					<li><a href="#item6">Upcoming Coding Contests</a></li>
 					<li><a href="#item7">Gadget Gizmo</a></li>
-					<li><a href="#item8">FOSSBytes</a></li>
+					<li><a href="#item8">FOSSMeet '16</a></li>
 					<li><a href="#item9">The Little Grey cells Attack</a></li>
 					<li><a href="#item10">FUNtastic</a></li>
 					<li><a href="#item11">The Team</a></li>
