@@ -3,19 +3,24 @@
   <div class="content page4">
     <div class="scroller">
       <h2>CSEA Updates</h2>
+      <h3>Activities conducted by CSEA in 2015-16</h3><br>
+      <hr><br>
       <div class="container-fluid">
         <div class="row">
           <div class="col-md-6">
             <ul>
-              <li>Inauguration of CSEA  Activities for the academic year 2015-2016.</li>
-              <li>An inspiring inaugural talk by Paul Mathews, founder of Nethram LLC.</li>
-              <li>Linux Installation camp held successfully.</li>
+              <div class="img"><img src="./images/cseaUpdates/paulTalk.jpg"></a></div><br>
+              <div class="img"><img src="./images/cseaUpdates/linuxWorkshop.jpg"></a></div><br>
+              <div class="img"><img src="./images/cseaUpdates/codeMaestros1.jpg"></a></div><br>
+              <div class="img"><img src="./images/cseaUpdates/codeMaestros2.jpg"></a></div><br>
             </ul>
           </div>
           <div class="col-md-6">
             <ul>
-              <li>A hands-on session on Linux  Shell Scripting was conducted.</li>
-              <li>FOSS Cell, NITC in association with Mozilla conducted a 24hr Hackathon.</li>
+              <div class="img"><img src="./images/cseaUpdates/android.jpg"></a></div><br>
+              <div class="img"><img src="./images/cseaUpdates/gitWorkshop.jpg"></a></div><br>
+              <div class="img"><img src="./images/cseaUpdates/MNNmemorialTalk.jpg"></a></div><br>
+              <div class="img"><img src="./images/cseaUpdates/intelTalk.jpg"></a></div><br>
             </ul>
           </div>
         </div>
