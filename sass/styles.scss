@@ -13,6 +13,17 @@ CSEA@nitcalicut
 @import "bootstrap/utilities";
 @import "bootstrap/responsive-utilities";
 
+/*scaffolding issues */
+
+.img-responsive {
+  @include img-responsive;
+}
+
+// Rounded corners
+.img-rounded {
+  border-radius: $border-radius-large;
+}
+
 /* other css stylesheets in the order */
 
 @import "../css/jquery.jscrollpane.custom.css";

@@ -1,4 +1,5 @@
 <div class="bb-item" id="item5">
+  <div class="pagenum">6/12</div>
   <div class="content">
     <div class="scroller">
       <div class="light">
@@ -11,8 +12,6 @@
                 <li>Caltech's coveted SURF Program has its applications due on February 22<sup>nd</sup>.</li>
                 <li>IIT Madras Summer Fellowship Program has its deadline on 29<sup>th</sup> February.</li>
                 <li>IIT Kanpur's SURGE Program has started call for applications. Deadline falls on February 22<sup>nd</sup>.</li>
-                <li>Ekalavya, IIT Bombay's signature internship, has also opened call for applications. Apply soon though, as deadline is on February 15<sup>th</sup></li>
-                <li>Visiting Summer Student Program offered by IMSc also has its deadline on February 15<sup>th</sup>.</li>
                 <li>IIT Guwahati is also hosting a Summer Internship Program. This one has its deadline late in March.</li>
                 <li>Also, don't miss out on some amazing learning opportunities at a few startups.</li>
               </ul>
