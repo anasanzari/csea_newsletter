@@ -17,7 +17,7 @@
             </div>
             <div class="col-md-6">
               <h3>IIT BHU presents PERPLEXED</h3>
-              <div class="img"><a href = "https://www.hackerrank.com/contests/perplexed-codefest16/challenges"><img src="./images/code/iitbhumarch.jpg"></a></div><br>
+              <div class="img"><a href = "https://www.hackerrank.com/perplexed-codefest16"><img src="./images/code/iitbhumarch.jpg"></a></div><br>
               <h4>Feb 26-28 2016</h4>
             </div>
           </div>
