@@ -114,6 +114,30 @@ $slideWidth : 300px;
 
 }
 
+ul{
+	list-style: none;
+
+
+	&.blacktux{
+		li {
+			background: url(../images/tux_black.png) no-repeat left top;
+			background-size: 20px;
+			background-position: 0px 11px;
+			padding: 7px 0px 7px 30px;
+			margin: 0;
+		}
+	}
+	&.whitetux{
+		li {
+			background: url(../images/tux_white.png) no-repeat left top;
+			background-size: 20px;
+			background-position: 0px 11px;
+			padding: 7px 0px 7px 30px;
+			margin: 0;
+		}
+	}
+}
+
 
 @media screen and (max-width: 600px) {
 		.frontpage{
@@ -163,9 +187,16 @@ $slideWidth : 300px;
 .page4{
   background:url(../images/chip.jpg);
   background-size: cover;
-}
-.page4:before{
-  background: rgba(0,0,0,.5);
+
+	a{
+		color:rgb(245, 135, 94);
+		&:hover{
+			color: darken(rgb(245, 135, 94),12%);
+		}
+	}
+	&:before{
+	  background: rgba(0,0,0,.7);
+	}
 }
 
 .pagenum{
