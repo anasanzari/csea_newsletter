@@ -8,15 +8,14 @@
           <div class="row">
             <div class="col-md-6">
               <div class="col-md-8 col-md-offset-2">
-                <h3>FOSSMeet coming up this Feb 26-28<br />See you all there!</h3>
+                <h3>FOSSMeet conducted successfully!<br /></h3>
                 <a href="http://www.fossmeet.in"><img src="./images/fossmeetPoster.jpg" class="img-responsive" /></a>
-                <h4>Register at: <a href="http://www.fossmeet.in">http://www.fossmeet.in</a></h4>
               </div>
 
             </div>
             <div class="col-md-6">
               <ul>
-                  <h3>Talks/ Workshops during FOSSMeet 2016</h3>
+                  <h3>Highlights during FOSSMeet 2016</h3>
                   <hr>
 		  <br />
                   <h4>The Worst Programmer I ever met - Steven Deobald</h4>
@@ -26,12 +25,17 @@ Attendees will come out with practical lessons and tools for working in teams, b
                   </p><br>
                   <h4>Golang Workshop - Baiju M</h4>
                   <p>
-                      This workshop intent to teach the fundamentals of Go programming language. The workshop will include setting up environment for Go development, basic syntax, concepts and solving few problems.
+                      This workshop taught the fundamentals of Go programming language. The workshop included setting up environment for Go development, basic syntax, concepts and solving few problems.
                   </p><br>
                   <h4>Building your own Hackable Keyboard - Abhas Abhinav</h4>
                   <p>
                       We all use keyboards. And not all of us care enough about them to ensure that, like our operating systems, they are hackable too. What could be better than to
                       build your own keyboard using open hardware designs and components and then program it using free / open source software?
+                  </p><br>
+                  <h4>Contributing to the Linux kernel - Tapaswini Pathak and Vaishali Thakkar</h4>
+                  <p>
+                      Nothing screams open source like the Linux kernel spread out over millions of devices across the globe. This workshop was a good first step in learning to
+                      contribute to the same.
                   </p><br>
                   <h4>And Many More...</h4>
               </ul>

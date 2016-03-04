@@ -8,6 +8,7 @@
         <div class="row">
           <div class="col-md-6">
             <ul>
+                <li>FOSSMeet 2016 was successfully conducted, witnessing a foot fall of over 170 people. <a href="http://fossmeet.in/">(Website)</a></li><br>
                 <li>C-SCAN (Computer Science Conference of All NITs) was successfully conducted. <a href="http://cscan.org.in/">(Website)</a></li><br>
                 <li>Linux Workshop was conducted to teach basic linux commands. Presentation available <a href="http://athena.nitc.ac.in/piyush_b130057cs/Linux_Workshop/Slide/index.html#/">here</a></li><br>
                 <li>A Git workshop was conducted to teach the basics of Git, a version control system.</li><br>
