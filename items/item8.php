@@ -32,10 +32,10 @@ Attendees will come out with practical lessons and tools for working in teams, b
                       We all use keyboards. And not all of us care enough about them to ensure that, like our operating systems, they are hackable too. What could be better than to
                       build your own keyboard using open hardware designs and components and then program it using free / open source software?
                   </p><br>
-                  <h4>Contributing to the Linux kernel - Tapaswini Pathak and Vaishali Thakkar</h4>
+                  <h4>Introduction to LaTeX and Friends - Sasi Kumar</h4>
                   <p>
-                      Nothing screams open source like the Linux kernel spread out over millions of devices across the globe. This workshop was a good first step in learning to
-                      contribute to the same.
+                      Sasi Kumar's talk on LaTeX and Friends was all about writing documents in LaTeX a breeze, which is a must-have skill in the academia.
+                      the academia.
                   </p><br>
                   <h4>And Many More...</h4>
               </ul>

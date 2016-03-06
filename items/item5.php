@@ -9,8 +9,8 @@
             <div class="col-md-6">
               <ul class="blacktux">
                 <li><a href="http://www.inde.campusfrance.org/en/page/charpak-research-internship-program">Charpak Research Internship Program</a> is a great opportunity to work as an intern at a research laboratory in France! Applications accepted till March 13<sup>th</sup>.</li>
-                <li>IIT Delhi is hosting its <a href="https://academics.iitd.ac.in/srf/index.php">Summer Research Fellowship Programme 2015</a> and will accept applications till 10<sup>th</sup> March.</li>
-                <li>IIT Guwahati is also hosting a <a href="https://www.iitg.ernet.in/cseweb/summerinternship/home">Summer Internship Program</a>. This one has its deadline late in March.</li>
+                <li>IIIT Allahabad has opened call for its <a href="https://www.iiita.ac.in/downloads/announcements/uploads/Summer%20Research%20Internships%20Program%202016386.pdf">Summer Internship Programme 2015</a> and will accept applications till 15<sup>th</sup> April.</li>
+                <li>IIT Guwahati is hosting a <a href="https://www.iitg.ernet.in/cseweb/summerinternship/home">Summer Internship Program</a>. This one has its deadline late in March.</li>
                 <li>IIT Bhubaneswar's <a href="http://webapps.iitbbs.ac.in/internship-application/">Internship Programme for Summer</a> also has its deadline late in March.</li>
                 <li>Also, don't miss out on some amazing learning opportunities at a few startups.</li>
               </ul>
