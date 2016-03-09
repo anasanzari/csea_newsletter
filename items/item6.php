@@ -7,18 +7,20 @@
         <div class="container-fluid">
           <div class="row">
             <div class="col-md-6">
-              <h3>Accel Hack on HackerRank</h3>
-              <div class="img"><a href = "https://www.hackerrank.com/accel-hack"><img src="./images/code/accelHackMarch.jpg"></a></div><br>
-              <h4>March 5 2016</h4>
-              <br><hr>
-              <h3>Juniper Networks Presents Juniper Coding Challenge</h3>
-              <div class="img"><a href = "https://www.hackerrank.com/juniper-codesprint"><img src="./images/code/juniperHackathon.jpg"></a></div><br>
-              <h4>February 27 2016</h4>
+                <ul class="whitetux">
+                    <li><a href="https://www.hackerearth.com/march-clash-16/">March Clash 2016</a></li><br>
+                    <div class="img"><img src="./images/code/march_clash.jpg"></div><br>
+                    <li><a href="https://www.hackerrank.com/hourrank-7">Hour Rank 7</a></li><br>
+                    <div class="img"><img src="./images/code/hourrank7.jpg"></div><br>
+                </ul>
             </div>
             <div class="col-md-6">
-              <h3>IIT BHU presents PERPLEXED</h3>
-              <div class="img"><a href = "https://www.hackerrank.com/perplexed-codefest16"><img src="./images/code/iitbhumarch.jpg"></a></div><br>
-              <h4>Feb 26-28 2016</h4>
+                <ul class="whitetux">
+                    <li><a href="https://www.codechef.com/MARCH16">March Long Challenge</a></li><br>
+                    <div class="img"><img src="./images/code/march_long_challenge.jpg"></div><br>
+                    <li><a href="http://www.codeforces.com/contests/637">V K Cup on Codeforces</a></li><br>
+                    <div class="img"><img src="./images/code/vk_cup.jpg"></div><br>
+                </ul>
             </div>
           </div>
         </div>
