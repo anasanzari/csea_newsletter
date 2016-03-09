@@ -19,6 +19,7 @@
                 The King says, "You must give me a statement. If it is true, you will killed by lions. If it is false, you will be killed by trampling of wild buffalo."
                 But in the end, the King has to let the man go.
                 What was the man's statement?</p>
+              <p><i>These puzzles can be found at <a href="http://puzzles4you.blogspot.in/">puzzles4you.blogspot.in</a>.</i></p>
             </div>
             <div class="col-md-6">
               <p class="title">Puzzle 3</p>
@@ -33,6 +34,7 @@
                 He then asks Prisoner B, "What is the color of the hat on your head?" Prisoner B thinks for a short while and then also replies, "I'm sorry, I do not know."
                 He finally asks Prisoner A, "What is the color of the hat on your head?" Prisoner A thinks for a short while and then replies, "I know! The color of my hat is...."
                 What color hat is Prisoner A wearing and how did he know?</p>
+              <p><i>This puzzle and more can be found <a href="https://www.ocf.berkeley.edu/~wwu/riddles/hard.shtml">here</a>.</i></p>
             </div>
           </div>
         </div>

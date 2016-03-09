@@ -19,7 +19,7 @@
                 <li>Aishwarya Maruvada</li>
                 <li>Aashish Satyajith</li>
                 <li>Piyush Bhopalka</li>
-                <li>Aparna Jayaraj</li>
+                <li><a href="https://in.linkedin.com/in/aparna-jairaj-884751b1">Aparna Jairaj</a></li>
                 <li>K Satya Kumar</li>
                 <li>Anas Ansari</li>
               </ul>
