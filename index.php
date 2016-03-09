@@ -14,6 +14,7 @@
 				<h3>Table of Contents</h3>
 				<ul id="menu-toc" class="menu-toc">
 					<li class="menu-toc-current"><a href="#item1">Home</a></li>
+					<li><a href="#item13">Message from the HOD</a></li>
 					<li><a href="#item12">Editorial</a></li>
 					<li><a href="#item2">Solving Problems</a></li>
 					<li><a href="#item3">Internships and Beyond</a></li>
@@ -32,6 +33,8 @@
 				<div id="bb-bookblock" class="bb-bookblock">
 					<!-- Front Page -->
 					<?php include_once 'items/item1.php'; ?>
+					<!-- Message From HOD -->
+					<?php include_once 'items/HODmessage.php'; ?>
 					<!-- Editorial Page -->
 					<?php include_once 'items/editorial.php'; ?>
 					<!-- Solving Problems Article -->
