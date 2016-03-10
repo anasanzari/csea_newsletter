@@ -4,7 +4,7 @@
     <div class="scroller">
       <div class="light">
         <h2>Gadget Gizmo</h2>
-        <p class="author">- <em>Anshul Chokhani & <a href="https://www.linkedin.com/in/pbhopalka">Piyush Bhopalka</a></em></p>
+        <p class="author">- <em>Anshul Chokhani & Piyush Bhopalka</em></p>
         <div class="container-fluid">
           <div class="row">
             <div class="col-md-6">

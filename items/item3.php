@@ -7,7 +7,7 @@
             <div class="row">
               <div class="col-xs-8">
                 <h3 style="text-align:right">Internships and Beyond</h3>
-                <p style="text-align:right">-<em> Ayush Jaiswal, B.Tech 2014 batch alumnus</em></p>
+                <p style="text-align:right">-<em> <a href="https://www.linkedin.com/in/jaiswalayush1">Ayush Jaiswal</a>, B.Tech 2014 batch alumnus</em></p>
               </div>
               <div class="col-xs-4">
                 <img style="width:200px;max-width:100%" src="./images/articles/ayush.jpg">
