@@ -29,6 +29,8 @@
 				</ul>
 			</div>
 
+			<?php $page = 0; $total = 13; ?>
+
 			<div class="bb-custom-wrapper">
 				<div id="bb-bookblock" class="bb-bookblock">
 					<!-- Front Page -->

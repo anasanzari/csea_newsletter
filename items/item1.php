@@ -1,5 +1,5 @@
 <div class="bb-item" id="item1">
-  <div class="pagenum">1/12</div>
+  <div class="pagenum"><?=++$page?>/<?=$total?></div>
   <div class="content page1">
     <div class="scroller" style="text-align:center">
 
