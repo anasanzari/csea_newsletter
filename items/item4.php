@@ -18,7 +18,7 @@
           <div class="col-md-6">
             <ul class="whitetux">
                 <li>A 5-week Android workshop is ongoing with more than 60 registered participants. Presentation available <a href="http://athena.nitc.ac.in/piyush_b130057cs/Android_Workshop/index.html#/">here</a></li><br>
-                <li>A talk on "Extracting Performance from next gen Intel Architecture" from Austin Cherian, Business Development Manager was conducted successfully</li><br>
+                <li>A talk on "Extracting Performance from next gen Intel Architecture" from <a href="https://www.linkedin.com/in/austin-cherian-ab07703">Austin Cherian</a>, Business Development Manager was conducted successfully</li><br>
                 <li>A workshop on "Rust Programming Language" was conducted by <a href="http://nibrahim.net.in/">Noufal Ibrahim</a></li><br>
             </ul>
           </div>

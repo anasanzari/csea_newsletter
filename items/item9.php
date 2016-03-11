@@ -3,7 +3,7 @@
   <div class="content">
     <div class="scroller">
       <div class="light">
-        <h2>The Little Grey cells Attack </h2>
+        <h2>The Little Grey Cells Attack </h2>
         <div class="container-fluid">
           <div class="row">
             <div class="col-md-6">
@@ -16,7 +16,7 @@
               <hr>
                 <p class="title">Puzzle 2</p>
               <p>A man is caught on the King's property. He is brought before the King to be punished. 
-                The King says, "You must give me a statement. If it is true, you will killed by lions. If it is false, you will be killed by trampling of wild buffalo."
+                The King says, "You must give me a statement. If it is true, you will be killed by lions. If it is false, you will be killed by trampling of wild buffalo."
                 But in the end, the King has to let the man go.
                 What was the man's statement?</p>
               <p><i>These puzzles can be found at <a href="http://puzzles4you.blogspot.in/">puzzles4you.blogspot.in</a>.</i></p>
