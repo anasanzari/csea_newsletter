@@ -188,7 +188,7 @@ a:hover {
 	left: 0;
 	width: 100%;
 	bottom: 50px;
-	overflow: hidden;
+	overflow: scroll;
 	-webkit-font-smoothing: subpixel-antialiased;
 }
 

@@ -940,7 +940,7 @@ CSEA@nitcalicut
     color: #fff;
     text-shadow: none; }
   .scroller .team {
-    text-align: left;
+    text-align: center;
     font-weight: 300;
     padding: 20px 0px; }
   .scroller h3 {
@@ -960,7 +960,8 @@ CSEA@nitcalicut
   .scroller ul {
     padding-left: 5%; }
     .scroller ul li {
-      font-size: 1.5em; }
+      font-size: 1.5em;
+      text-align: center;}
   .scroller .title {
     padding: 0px 15px;
     font-size: 2em; }
