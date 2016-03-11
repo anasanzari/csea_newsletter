@@ -3,7 +3,7 @@
   <div class="content">
     <div class="scroller">
       <div class="light">
-        <h2>The ENIGMATIC Life</h2>
+        <h2>Editorial</h2>
         <p class="author">- <em>Aishwarya Maruvada, Student Editor</a></em></p>
         <div class="container-fluid">
           <div class="row">
