@@ -6,25 +6,26 @@
         <h2>The Team</h2>
         <div class="container-fluid">
           <div class="row">
-            <div class="col-md-3 col-md-offset-3">
-              <h4 class="team">Staff editor</h4 class="team">
-              <ul class="special">
-                <li><a href="http://people.cse.nitc.ac.in/pathari/">Vinod Pathari</a></li>
-              </ul>
-              </div>
-            <div class="col-md-6">
+            <div class="col-md-4"></div>
 
-              <h4 class="team">Student editors</h4 class="team">
+            <div class="col-md-4">
+              <h4 class="team">Editors</h4 class="team">
               <ul class="special">
-                <li><a href="https://in.linkedin.com/in/aishwarya-maruvada-30136672">Aishwarya Maruvada</a></li>
                 <li><a href="https://in.linkedin.com/in/aashishsatya">Aashish Satyajith</a></li>
-                <li><a href="https://in.linkedin.com/in/pbhopalka">Piyush Bhopalka</a></li>
+                <li><a href="https://in.linkedin.com/in/aishwarya-maruvada-30136672">Aishwarya Maruvada</a></li>
                 <li><a href="https://github.com/anshulchokhani">Anshul Chokhani</a></li>
                 <li><a href="https://in.linkedin.com/in/aparna-jairaj-884751b1">Aparna Jairaj</a></li>
-                <li><a href="https://www.facebook.com/satya.darls?fref=ts">K Satya Kumar</a></li>
+                <li><a href="https://in.linkedin.com/in/pbhopalka">Piyush Bhopalka</a></li>
+                <li><a href="https://in.linkedin.com/in/pbhopalka">Vinod Pathari</a></li>
+              </ul>
+              <h4 class="team">Designers</h4 class="team">
+              <ul class="special">
                 <li><a href="https://github.com/anasanzari">Anas Ansari</a></li>
+                <li><a href="https://www.facebook.com/satya.darls?fref=ts">K Satya Kumar</a></li>
               </ul>
 
+            </div>
+            <div class="col-md-4"></div>
             </div>
             <div class="row">
               <div class="col-md-12">
@@ -42,7 +43,7 @@
               </div>
             </div>
 
-          </div>
+
         </div>
 
       </div>
