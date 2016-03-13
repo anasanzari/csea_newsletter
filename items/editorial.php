@@ -1,5 +1,5 @@
 <div class="bb-item" id="item12">
-  <div class="pagenum"><?=++$page?>/<?=$total?></div>
+  <div class="pagenum"><?php echo ++$page; ?>/<?php echo $total; ?></div>
   <div class="content">
     <div class="scroller">
       <div class="light">
@@ -16,7 +16,7 @@
             <div class="col-md-6">
               <p>The purpose of this newsletter is to share knowledge, tit bits and updates from the ever-changing CS scenario. This newsletter will feature articles from our current students, alumni, updates from the Free and Open Source community apart from an informal section for our coders and hackers to take lighthearted breaks after their long hours at work. This issue came into light only due to the creativity and toil of several students who put in their best effort. </p>
               <p>My heartfelt gratitude to Dr. Vinod Pathari sir, Staff Editor without whom this would have not been possible. My sincere thanks to the Head of the Department, Dr. K. A Abdul Nazeer and to the CSEA faculty incharges, Dr. S. D. Madhukumar and Ms. A. Lijiya for their support. </p>
-              <p>Happy Reading!<br>Aishwarya, Student Editor, Threads</p>
+              <p>Happy Reading!<br><em>Aishwarya, Student Editor, Threads</em></p>
             </div>
           </div>
         </div>

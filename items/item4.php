@@ -1,5 +1,5 @@
 <div class="bb-item" id="item4">
-  <div class="pagenum white"><?=++$page?>/<?=$total?></div>
+  <div class="pagenum white"><?php echo ++$page; ?>/<?php echo $total; ?></div>
   <div class="content page4">
     <div class="scroller">
       <h2>CSEA Updates</h2>
