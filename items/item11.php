@@ -16,7 +16,7 @@
                 <li><a href="https://github.com/anshulchokhani">Anshul Chokhani</a></li>
                 <li><a href="https://in.linkedin.com/in/aparna-jairaj-884751b1">Aparna Jairaj</a></li>
                 <li><a href="https://in.linkedin.com/in/pbhopalka">Piyush Bhopalka</a></li>
-                <li><a href="https://in.linkedin.com/in/pbhopalka">Vinod Pathari</a></li>
+                <li><a href="http://people.cse.nitc.ac.in/pathari/">Vinod Pathari</a></li>
               </ul>
               <h4 class="team">Designers</h4 class="team">
               <ul class="special">
